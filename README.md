@@ -1,5 +1,5 @@
 # Medication-Diagnosis
-A project with my customer, performed on private data. The goal is to provide Machine Learning and Deep Learning models for the tasks of predicting Treatment and predicting Confident(success) rate.
+A project with my customer, performed on private data. The goal is to provide Machine Learning and Deep Learning models for the tasks of predicting Treatment and Confident(success) rate.
 
 ## Contents
 ### Machine Learning models
